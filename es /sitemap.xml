@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://lucasbianchi.github.io/es-/authors/" hreflang="es "/>
+      <xhtml:link rel="alternate" href="https://lucasbianchi.github.io/es/authors/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="https://lucasbianchi.github.io/en/authors/" hreflang="en"/>
+    
+      <loc>https://lucasbianchi.github.io/es-/authors/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://lucasbianchi.github.io/es-/categories/" hreflang="es "/>
+      <xhtml:link rel="alternate" href="https://lucasbianchi.github.io/es/categories/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="https://lucasbianchi.github.io/en/categories/" hreflang="en"/>
+    
+      <loc>https://lucasbianchi.github.io/es-/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://lucasbianchi.github.io/es-/" hreflang="es "/>
+      <xhtml:link rel="alternate" href="https://lucasbianchi.github.io/es/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="https://lucasbianchi.github.io/en/" hreflang="en"/>
+    
+      <loc>https://lucasbianchi.github.io/es-/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://lucasbianchi.github.io/es-/publication_types/" hreflang="es "/>
+      <xhtml:link rel="alternate" href="https://lucasbianchi.github.io/es/publication_types/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="https://lucasbianchi.github.io/en/publication_types/" hreflang="en"/>
+    
+      <loc>https://lucasbianchi.github.io/es-/publication_types/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://lucasbianchi.github.io/es-/tags/" hreflang="es "/>
+      <xhtml:link rel="alternate" href="https://lucasbianchi.github.io/es/tags/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="https://lucasbianchi.github.io/en/tags/" hreflang="en"/>
+    
+      <loc>https://lucasbianchi.github.io/es-/tags/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+</urlset>

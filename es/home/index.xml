@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Lucas O. Bianchi</title>
+    <link>https://lucasbianchi.github.io/es/home/</link>
+    <description>Recent content in Homes on Lucas O. Bianchi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	<atom:link href="https://lucasbianchi.github.io/es/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://lucasbianchi.github.io/es/home/slider/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lucasbianchi.github.io/es/home/slider/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Academic</title>
+      <link>https://lucasbianchi.github.io/es/home/hero/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lucasbianchi.github.io/es/home/hero/</guid>
+      <description>The Best Way to Create the Website You Want from Markdown (or RStudio/Jupyter)
+Build Anything with Widgets
+Star</description>
+    </item>
+    
+    <item>
+      <title>Demos</title>
+      <link>https://lucasbianchi.github.io/es/home/demo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lucasbianchi.github.io/es/home/demo/</guid>
+      <description>Welcome to the personal demo of Academic. Other demos available include:
+ Project Demo (Academic&amp;rsquo;s actual site)  Over 100,000 Amazing Websites have Already Been Built with Academic
+Join the Most Empowered Hugo Community
+ This homepage section is an example of adding elements to the Blank widget.
+Backgrounds can be applied to any section. Here, the background option is set give an image parallax effect.
+  </description>
+    </item>
+    
+    <item>
+      <title>Biografía</title>
+      <link>https://lucasbianchi.github.io/es/home/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lucasbianchi.github.io/es/home/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Skills</title>
+      <link>https://lucasbianchi.github.io/es/home/skills/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lucasbianchi.github.io/es/home/skills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>https://lucasbianchi.github.io/es/home/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lucasbianchi.github.io/es/home/experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accomplish&amp;shy;ments</title>
+      <link>https://lucasbianchi.github.io/es/home/accomplishments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lucasbianchi.github.io/es/home/accomplishments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>https://lucasbianchi.github.io/es/home/posts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lucasbianchi.github.io/es/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://lucasbianchi.github.io/es/home/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lucasbianchi.github.io/es/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gallery</title>
+      <link>https://lucasbianchi.github.io/es/home/gallery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lucasbianchi.github.io/es/home/gallery/</guid>
+      <description>          </description>
+    </item>
+    
+    <item>
+      <title>People</title>
+      <link>https://lucasbianchi.github.io/es/home/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lucasbianchi.github.io/es/home/people/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://lucasbianchi.github.io/es/home/talks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lucasbianchi.github.io/es/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Featured Publications</title>
+      <link>https://lucasbianchi.github.io/es/home/featured/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lucasbianchi.github.io/es/home/featured/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>https://lucasbianchi.github.io/es/home/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lucasbianchi.github.io/es/home/publications/</guid>
+      <description> Quickly discover relevant content by filtering publications.
+  </description>
+    </item>
+    
+    <item>
+      <title>Popular Topics</title>
+      <link>https://lucasbianchi.github.io/es/home/tags/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lucasbianchi.github.io/es/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://lucasbianchi.github.io/es/home/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lucasbianchi.github.io/es/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
