@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fire behaviour on Lucas O. Bianchi</title>
+    <link>https://lucasbianchi.github.io/es/tags/fire-behaviour/</link>
+    <description>Recent content in Fire behaviour on Lucas O. Bianchi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 23 Mar 2015 00:00:00 -0300</lastBuildDate>
+    
+	<atom:link href="https://lucasbianchi.github.io/es/tags/fire-behaviour/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Live fuel moisture content and leaf ignition of forest species in Andean Patagonia, Argentina</title>
+      <link>https://lucasbianchi.github.io/es/publication/2015_bianchi_defosse_ijwf/</link>
+      <pubDate>Mon, 23 Mar 2015 00:00:00 -0300</pubDate>
+      
+      <guid>https://lucasbianchi.github.io/es/publication/2015_bianchi_defosse_ijwf/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

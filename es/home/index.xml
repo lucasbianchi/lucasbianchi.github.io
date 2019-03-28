@@ -90,21 +90,13 @@ Backgrounds can be applied to any section. Here, the background option is set gi
     </item>
     
     <item>
-      <title>Projects</title>
-      <link>https://lucasbianchi.github.io/es/home/projects/</link>
+      <title>Recent Publications</title>
+      <link>https://lucasbianchi.github.io/es/home/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://lucasbianchi.github.io/es/home/projects/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gallery</title>
-      <link>https://lucasbianchi.github.io/es/home/gallery/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://lucasbianchi.github.io/es/home/gallery/</guid>
-      <description>          </description>
+      <guid>https://lucasbianchi.github.io/es/home/publications/</guid>
+      <description> Quickly discover relevant content by filtering publications.
+  </description>
     </item>
     
     <item>
@@ -135,13 +127,21 @@ Backgrounds can be applied to any section. Here, the background option is set gi
     </item>
     
     <item>
-      <title>Recent Publications</title>
-      <link>https://lucasbianchi.github.io/es/home/publications/</link>
+      <title>Projects</title>
+      <link>https://lucasbianchi.github.io/es/home/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://lucasbianchi.github.io/es/home/publications/</guid>
-      <description> Quickly discover relevant content by filtering publications.
-  </description>
+      <guid>https://lucasbianchi.github.io/es/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gallery</title>
+      <link>https://lucasbianchi.github.io/es/home/gallery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lucasbianchi.github.io/es/home/gallery/</guid>
+      <description>          </description>
     </item>
     
     <item>

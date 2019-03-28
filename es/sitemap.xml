@@ -26,6 +26,22 @@
     
     <url>
     
+      <loc>https://lucasbianchi.github.io/es/publication/2018_bianchi_etal_forsci/</loc>
+      <lastmod>2018-12-07T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://lucasbianchi.github.io/es/publication/2018_alvarez_etal_orntrop/</loc>
+      <lastmod>2018-10-24T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="https://lucasbianchi.github.io/es/tutorial/example/" hreflang="es"/>
       <xhtml:link rel="alternate" href="https://lucasbianchi.github.io/en/tutorial/example/" hreflang="en"/>
     
@@ -42,6 +58,14 @@
     
       <loc>https://lucasbianchi.github.io/es/tutorial/</loc>
       <lastmod>2018-09-09T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://lucasbianchi.github.io/es/publication/2016_bianchi_etal_hydrosci/</loc>
+      <lastmod>2016-11-02T00:00:00-03:00</lastmod>
     </url>
     
   
@@ -81,22 +105,24 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="https://lucasbianchi.github.io/es/publication/person-re-id/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="https://lucasbianchi.github.io/en/publication/person-re-id/" hreflang="en"/>
-    
-      <loc>https://lucasbianchi.github.io/es/publication/person-re-id/</loc>
-      <lastmod>2015-09-01T00:00:00-03:00</lastmod>
+      <loc>https://lucasbianchi.github.io/es/publication/2015_bianchi_defosse_ijwf/</loc>
+      <lastmod>2015-03-23T00:00:00-03:00</lastmod>
     </url>
     
   
     
     <url>
     
-      <xhtml:link rel="alternate" href="https://lucasbianchi.github.io/es/publication/clothing-search/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="https://lucasbianchi.github.io/en/publication/clothing-search/" hreflang="en"/>
+      <loc>https://lucasbianchi.github.io/es/publication/2014_bianchi_defosse_forsys/</loc>
+      <lastmod>2014-01-01T00:00:00-03:00</lastmod>
+    </url>
     
-      <loc>https://lucasbianchi.github.io/es/publication/clothing-search/</loc>
-      <lastmod>2013-07-01T00:00:00-03:00</lastmod>
+  
+    
+    <url>
+    
+      <loc>https://lucasbianchi.github.io/es/publication/2013_godoy_etal_ijwf/</loc>
+      <lastmod>2013-05-02T00:00:00-03:00</lastmod>
     </url>
     
   
@@ -113,11 +139,17 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="https://lucasbianchi.github.io/es/publication_types/1/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="https://lucasbianchi.github.io/en/publication_types/1/" hreflang="en"/>
+      <loc>https://lucasbianchi.github.io/es/tags/austrocedrus-chilensis/</loc>
+      <lastmod>2014-01-01T00:00:00-03:00</lastmod>
+      <priority>0</priority>
+    </url>
     
-      <loc>https://lucasbianchi.github.io/es/publication_types/1/</loc>
-      <lastmod>2013-07-01T00:00:00-03:00</lastmod>
+  
+    
+    <url>
+    
+      <loc>https://lucasbianchi.github.io/es/tags/nothofagus-antarctica/</loc>
+      <lastmod>2014-01-01T00:00:00-03:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -129,7 +161,7 @@
       <xhtml:link rel="alternate" href="https://lucasbianchi.github.io/en/publication_types/2/" hreflang="en"/>
     
       <loc>https://lucasbianchi.github.io/es/publication_types/2/</loc>
-      <lastmod>2015-09-01T00:00:00-03:00</lastmod>
+      <lastmod>2018-12-07T00:00:00-03:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -142,6 +174,15 @@
     
       <loc>https://lucasbianchi.github.io/es/tags/academic/</loc>
       <lastmod>2018-01-13T00:00:00-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://lucasbianchi.github.io/es/tags/argentina/</loc>
+      <lastmod>2018-10-24T00:00:00-03:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -162,7 +203,6 @@
     
       <xhtml:link rel="alternate" href="https://lucasbianchi.github.io/es/authors/" hreflang="es"/>
       <xhtml:link rel="alternate" href="https://lucasbianchi.github.io/en/authors/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://lucasbianchi.github.io/es-/authors/" hreflang="es "/>
     
       <loc>https://lucasbianchi.github.io/es/authors/</loc>
       <priority>0</priority>
@@ -174,9 +214,17 @@
     
       <xhtml:link rel="alternate" href="https://lucasbianchi.github.io/es/categories/" hreflang="es"/>
       <xhtml:link rel="alternate" href="https://lucasbianchi.github.io/en/categories/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://lucasbianchi.github.io/es-/categories/" hreflang="es "/>
     
       <loc>https://lucasbianchi.github.io/es/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://lucasbianchi.github.io/es/tags/chilean-flamingo/</loc>
+      <lastmod>2018-10-24T00:00:00-03:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -208,11 +256,143 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="https://lucasbianchi.github.io/es/authors/ga-cushen/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="https://lucasbianchi.github.io/en/authors/ga-cushen/" hreflang="en"/>
+      <loc>https://lucasbianchi.github.io/es/authors/facundo-j.-oddi/</loc>
+      <lastmod>2018-12-07T00:00:00-03:00</lastmod>
+      <priority>0</priority>
+    </url>
     
-      <loc>https://lucasbianchi.github.io/es/authors/ga-cushen/</loc>
-      <lastmod>2015-09-01T00:00:00-03:00</lastmod>
+  
+    
+    <url>
+    
+      <loc>https://lucasbianchi.github.io/es/authors/facundo-rojas/</loc>
+      <lastmod>2016-11-02T00:00:00-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://lucasbianchi.github.io/es/tags/fire-behavior/</loc>
+      <lastmod>2014-01-01T00:00:00-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://lucasbianchi.github.io/es/tags/fire-behaviour/</loc>
+      <lastmod>2015-03-23T00:00:00-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://lucasbianchi.github.io/es/tags/fire-weather-index/</loc>
+      <lastmod>2014-01-01T00:00:00-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://lucasbianchi.github.io/es/tags/foliar-moisture/</loc>
+      <lastmod>2015-03-23T00:00:00-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://lucasbianchi.github.io/es/tags/fuel-moisture/</loc>
+      <lastmod>2014-01-01T00:00:00-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://lucasbianchi.github.io/es/authors/guillermo-e.-defosse/</loc>
+      <lastmod>2015-03-23T00:00:00-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://lucasbianchi.github.io/es/authors/guillermo-e.-defoss%C3%A9/</loc>
+      <lastmod>2018-12-07T00:00:00-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://lucasbianchi.github.io/es/tags/habitat-measuring/</loc>
+      <lastmod>2018-10-24T00:00:00-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://lucasbianchi.github.io/es/authors/heber-sosa/</loc>
+      <lastmod>2018-10-24T00:00:00-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://lucasbianchi.github.io/es/authors/juan-a.-rivera/</loc>
+      <lastmod>2018-10-24T00:00:00-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://lucasbianchi.github.io/es/authors/juan-antonio-rivera/</loc>
+      <lastmod>2016-11-02T00:00:00-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://lucasbianchi.github.io/es/tags/lagoon-area-fluctuations/</loc>
+      <lastmod>2016-11-02T00:00:00-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://lucasbianchi.github.io/es/tags/laguna-llancanelo/</loc>
+      <lastmod>2016-11-02T00:00:00-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://lucasbianchi.github.io/es/authors/leandro-m.-alvarez/</loc>
+      <lastmod>2018-10-24T00:00:00-03:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -222,7 +402,6 @@
     
       <xhtml:link rel="alternate" href="https://lucasbianchi.github.io/es/" hreflang="es"/>
       <xhtml:link rel="alternate" href="https://lucasbianchi.github.io/en/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://lucasbianchi.github.io/es-/" hreflang="es "/>
     
       <loc>https://lucasbianchi.github.io/es/</loc>
       <lastmod>2030-06-01T13:00:00-03:00</lastmod>
@@ -233,11 +412,71 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="https://lucasbianchi.github.io/es/authors/ms-nixon/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="https://lucasbianchi.github.io/en/authors/ms-nixon/" hreflang="en"/>
+      <loc>https://lucasbianchi.github.io/es/authors/lucas-o.-bianchi/</loc>
+      <lastmod>2018-12-07T00:00:00-03:00</lastmod>
+      <priority>0</priority>
+    </url>
     
-      <loc>https://lucasbianchi.github.io/es/authors/ms-nixon/</loc>
-      <lastmod>2013-07-01T00:00:00-03:00</lastmod>
+  
+    
+    <url>
+    
+      <loc>https://lucasbianchi.github.io/es/authors/maria-m.-godoy/</loc>
+      <lastmod>2013-05-02T00:00:00-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://lucasbianchi.github.io/es/authors/mauro-britos-navarro/</loc>
+      <lastmod>2016-11-02T00:00:00-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://lucasbianchi.github.io/es/authors/miguel-m.-davel/</loc>
+      <lastmod>2013-05-02T00:00:00-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://lucasbianchi.github.io/es/authors/miriam-mu%C3%B1oz/</loc>
+      <lastmod>2018-12-07T00:00:00-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://lucasbianchi.github.io/es/authors/pablo-a.-meglioli/</loc>
+      <lastmod>2018-10-24T00:00:00-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://lucasbianchi.github.io/es/tags/patagonian-forests/</loc>
+      <lastmod>2015-03-23T00:00:00-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://lucasbianchi.github.io/es/tags/population-dynamics/</loc>
+      <lastmod>2018-10-24T00:00:00-03:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -270,10 +509,9 @@
     
       <xhtml:link rel="alternate" href="https://lucasbianchi.github.io/es/publication_types/" hreflang="es"/>
       <xhtml:link rel="alternate" href="https://lucasbianchi.github.io/en/publication_types/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://lucasbianchi.github.io/es-/publication_types/" hreflang="es "/>
     
       <loc>https://lucasbianchi.github.io/es/publication_types/</loc>
-      <lastmod>2013-07-01T00:00:00-03:00</lastmod>
+      <lastmod>2018-12-07T00:00:00-03:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -285,7 +523,16 @@
       <xhtml:link rel="alternate" href="https://lucasbianchi.github.io/en/publication/" hreflang="en"/>
     
       <loc>https://lucasbianchi.github.io/es/publication/</loc>
-      <lastmod>2015-09-01T00:00:00-03:00</lastmod>
+      <lastmod>2018-12-07T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://lucasbianchi.github.io/es/tags/ramsar-site/</loc>
+      <lastmod>2016-11-02T00:00:00-03:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -297,6 +544,42 @@
     
       <loc>https://lucasbianchi.github.io/es/talk/</loc>
       <lastmod>2030-06-01T13:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://lucasbianchi.github.io/es/tags/reinekes-index/</loc>
+      <lastmod>2013-05-02T00:00:00-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://lucasbianchi.github.io/es/tags/remote-sensing/</loc>
+      <lastmod>2018-10-24T00:00:00-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://lucasbianchi.github.io/es/authors/ricardo-villalba/</loc>
+      <lastmod>2016-11-02T00:00:00-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://lucasbianchi.github.io/es/authors/sebasti%C3%A1n-mart%C3%ADn/</loc>
+      <lastmod>2018-10-24T00:00:00-03:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -326,10 +609,27 @@
     
       <xhtml:link rel="alternate" href="https://lucasbianchi.github.io/es/tags/" hreflang="es"/>
       <xhtml:link rel="alternate" href="https://lucasbianchi.github.io/en/tags/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://lucasbianchi.github.io/es-/tags/" hreflang="es "/>
     
       <loc>https://lucasbianchi.github.io/es/tags/</loc>
-      <lastmod>2018-01-13T00:00:00-03:00</lastmod>
+      <lastmod>2014-01-01T00:00:00-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://lucasbianchi.github.io/es/authors/tom%C3%A1s-e.-withington/</loc>
+      <lastmod>2013-05-02T00:00:00-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://lucasbianchi.github.io/es/tags/wildfire/</loc>
+      <lastmod>2014-01-01T00:00:00-03:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -342,6 +642,114 @@
     
       <loc>https://lucasbianchi.github.io/es/authors/admin/</loc>
       <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://lucasbianchi.github.io/es/tags/climate-variability/</loc>
+      <lastmod>2016-11-02T00:00:00-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://lucasbianchi.github.io/es/tags/extreme-fire-behaviour/</loc>
+      <lastmod>2013-05-02T00:00:00-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://lucasbianchi.github.io/es/tags/flammability/</loc>
+      <lastmod>2018-12-07T00:00:00-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://lucasbianchi.github.io/es/tags/forest-fires/</loc>
+      <lastmod>2018-12-07T00:00:00-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://lucasbianchi.github.io/es/tags/fuel-management/</loc>
+      <lastmod>2018-12-07T00:00:00-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://lucasbianchi.github.io/es/tags/hydrometeorological-index/</loc>
+      <lastmod>2016-11-02T00:00:00-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://lucasbianchi.github.io/es/tags/leaf-traits/</loc>
+      <lastmod>2018-12-07T00:00:00-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://lucasbianchi.github.io/es/tags/pine-plantation/</loc>
+      <lastmod>2018-12-07T00:00:00-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://lucasbianchi.github.io/es/tags/remote-sensing/</loc>
+      <lastmod>2016-11-02T00:00:00-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://lucasbianchi.github.io/es/tags/silvicultural-treatments/</loc>
+      <lastmod>2013-05-02T00:00:00-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://lucasbianchi.github.io/es/tags/southern-andes/</loc>
+      <lastmod>2016-11-02T00:00:00-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://lucasbianchi.github.io/es/tags/wildfires/</loc>
+      <lastmod>2015-03-23T00:00:00-03:00</lastmod>
       <priority>0</priority>
     </url>
     

@@ -81,9 +81,6 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="https://lucasbianchi.github.io/en/publication/person-re-id/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://lucasbianchi.github.io/es/publication/person-re-id/" hreflang="es"/>
-    
       <loc>https://lucasbianchi.github.io/en/publication/person-re-id/</loc>
       <lastmod>2015-09-01T00:00:00-03:00</lastmod>
     </url>
@@ -91,9 +88,6 @@
   
     
     <url>
-    
-      <xhtml:link rel="alternate" href="https://lucasbianchi.github.io/en/publication/clothing-search/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://lucasbianchi.github.io/es/publication/clothing-search/" hreflang="es"/>
     
       <loc>https://lucasbianchi.github.io/en/publication/clothing-search/</loc>
       <lastmod>2013-07-01T00:00:00-03:00</lastmod>
@@ -112,9 +106,6 @@
   
     
     <url>
-    
-      <xhtml:link rel="alternate" href="https://lucasbianchi.github.io/en/publication_types/1/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://lucasbianchi.github.io/es/publication_types/1/" hreflang="es"/>
     
       <loc>https://lucasbianchi.github.io/en/publication_types/1/</loc>
       <lastmod>2013-07-01T00:00:00-03:00</lastmod>
@@ -162,7 +153,6 @@
     
       <xhtml:link rel="alternate" href="https://lucasbianchi.github.io/en/authors/" hreflang="en"/>
       <xhtml:link rel="alternate" href="https://lucasbianchi.github.io/es/authors/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="https://lucasbianchi.github.io/es-/authors/" hreflang="es "/>
     
       <loc>https://lucasbianchi.github.io/en/authors/</loc>
       <priority>0</priority>
@@ -174,7 +164,6 @@
     
       <xhtml:link rel="alternate" href="https://lucasbianchi.github.io/en/categories/" hreflang="en"/>
       <xhtml:link rel="alternate" href="https://lucasbianchi.github.io/es/categories/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="https://lucasbianchi.github.io/es-/categories/" hreflang="es "/>
     
       <loc>https://lucasbianchi.github.io/en/categories/</loc>
       <priority>0</priority>
@@ -208,9 +197,6 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="https://lucasbianchi.github.io/en/authors/ga-cushen/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://lucasbianchi.github.io/es/authors/ga-cushen/" hreflang="es"/>
-    
       <loc>https://lucasbianchi.github.io/en/authors/ga-cushen/</loc>
       <lastmod>2015-09-01T00:00:00-03:00</lastmod>
       <priority>0</priority>
@@ -222,7 +208,6 @@
     
       <xhtml:link rel="alternate" href="https://lucasbianchi.github.io/en/" hreflang="en"/>
       <xhtml:link rel="alternate" href="https://lucasbianchi.github.io/es/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="https://lucasbianchi.github.io/es-/" hreflang="es "/>
     
       <loc>https://lucasbianchi.github.io/en/</loc>
       <lastmod>2030-06-01T13:00:00-03:00</lastmod>
@@ -232,9 +217,6 @@
   
     
     <url>
-    
-      <xhtml:link rel="alternate" href="https://lucasbianchi.github.io/en/authors/ms-nixon/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://lucasbianchi.github.io/es/authors/ms-nixon/" hreflang="es"/>
     
       <loc>https://lucasbianchi.github.io/en/authors/ms-nixon/</loc>
       <lastmod>2013-07-01T00:00:00-03:00</lastmod>
@@ -270,7 +252,6 @@
     
       <xhtml:link rel="alternate" href="https://lucasbianchi.github.io/en/publication_types/" hreflang="en"/>
       <xhtml:link rel="alternate" href="https://lucasbianchi.github.io/es/publication_types/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="https://lucasbianchi.github.io/es-/publication_types/" hreflang="es "/>
     
       <loc>https://lucasbianchi.github.io/en/publication_types/</loc>
       <lastmod>2013-07-01T00:00:00-03:00</lastmod>
@@ -326,7 +307,6 @@
     
       <xhtml:link rel="alternate" href="https://lucasbianchi.github.io/en/tags/" hreflang="en"/>
       <xhtml:link rel="alternate" href="https://lucasbianchi.github.io/es/tags/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="https://lucasbianchi.github.io/es-/tags/" hreflang="es "/>
     
       <loc>https://lucasbianchi.github.io/en/tags/</loc>
       <lastmod>2018-01-13T00:00:00-03:00</lastmod>

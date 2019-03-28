@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Argentina on Lucas O. Bianchi</title>
+    <link>https://lucasbianchi.github.io/es/tags/argentina/</link>
+    <description>Recent content in Argentina on Lucas O. Bianchi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 24 Oct 2018 00:00:00 -0300</lastBuildDate>
+    
+	<atom:link href="https://lucasbianchi.github.io/es/tags/argentina/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Effects of hydrological variation on the population dynamics of Chilean Flamingo (Phoenicopterus chilensis) at the Ramsar site Llancanelo lagoon, Mendoza, Argentina</title>
+      <link>https://lucasbianchi.github.io/es/publication/2018_alvarez_etal_orntrop/</link>
+      <pubDate>Wed, 24 Oct 2018 00:00:00 -0300</pubDate>
+      
+      <guid>https://lucasbianchi.github.io/es/publication/2018_alvarez_etal_orntrop/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

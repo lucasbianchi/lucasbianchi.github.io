@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fire weather index on Lucas O. Bianchi</title>
+    <link>https://lucasbianchi.github.io/es/tags/fire-weather-index/</link>
+    <description>Recent content in Fire weather index on Lucas O. Bianchi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Jan 2014 00:00:00 -0300</lastBuildDate>
+    
+	<atom:link href="https://lucasbianchi.github.io/es/tags/fire-weather-index/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ignition probability of fine dead surface fuels in native Patagonia forests of Argentina</title>
+      <link>https://lucasbianchi.github.io/es/publication/2014_bianchi_defosse_forsys/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 -0300</pubDate>
+      
+      <guid>https://lucasbianchi.github.io/es/publication/2014_bianchi_defosse_forsys/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

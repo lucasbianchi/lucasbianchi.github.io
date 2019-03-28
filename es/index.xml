@@ -99,6 +99,24 @@ rm Untitled.md
     </item>
     
     <item>
+      <title>Comparison of Leaf Moisture Content and Ignition Characteristics among Native Species and Exotic Conifers in Northwestern Patagonia, Argentina</title>
+      <link>https://lucasbianchi.github.io/es/publication/2018_bianchi_etal_forsci/</link>
+      <pubDate>Fri, 07 Dec 2018 00:00:00 -0300</pubDate>
+      
+      <guid>https://lucasbianchi.github.io/es/publication/2018_bianchi_etal_forsci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of hydrological variation on the population dynamics of Chilean Flamingo (Phoenicopterus chilensis) at the Ramsar site Llancanelo lagoon, Mendoza, Argentina</title>
+      <link>https://lucasbianchi.github.io/es/publication/2018_alvarez_etal_orntrop/</link>
+      <pubDate>Wed, 24 Oct 2018 00:00:00 -0300</pubDate>
+      
+      <guid>https://lucasbianchi.github.io/es/publication/2018_alvarez_etal_orntrop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Example Page</title>
       <link>https://lucasbianchi.github.io/es/tutorial/example/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 -0300</pubDate>
@@ -116,6 +134,15 @@ rm Untitled.md
 
 &lt;p&gt;&amp;hellip;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>A regional water balance indicator inferred from satellite images of an Andean endorheic basin in central-western Argentina</title>
+      <link>https://lucasbianchi.github.io/es/publication/2016_bianchi_etal_hydrosci/</link>
+      <pubDate>Wed, 02 Nov 2016 00:00:00 -0300</pubDate>
+      
+      <guid>https://lucasbianchi.github.io/es/publication/2016_bianchi_etal_hydrosci/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -528,23 +555,30 @@ git submodule update --init --recursive
     </item>
     
     <item>
-      <title>A Person Re-Identification System For Mobile Devices</title>
-      <link>https://lucasbianchi.github.io/es/publication/person-re-id/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 -0300</pubDate>
+      <title>Live fuel moisture content and leaf ignition of forest species in Andean Patagonia, Argentina</title>
+      <link>https://lucasbianchi.github.io/es/publication/2015_bianchi_defosse_ijwf/</link>
+      <pubDate>Mon, 23 Mar 2015 00:00:00 -0300</pubDate>
       
-      <guid>https://lucasbianchi.github.io/es/publication/person-re-id/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
+      <guid>https://lucasbianchi.github.io/es/publication/2015_bianchi_defosse_ijwf/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Mobile visual clothing search</title>
-      <link>https://lucasbianchi.github.io/es/publication/clothing-search/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 -0300</pubDate>
+      <title>Ignition probability of fine dead surface fuels in native Patagonia forests of Argentina</title>
+      <link>https://lucasbianchi.github.io/es/publication/2014_bianchi_defosse_forsys/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 -0300</pubDate>
       
-      <guid>https://lucasbianchi.github.io/es/publication/clothing-search/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
+      <guid>https://lucasbianchi.github.io/es/publication/2014_bianchi_defosse_forsys/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fire-caused tree mortality in thinned Douglas-fir stands in Patagonia, Argentina</title>
+      <link>https://lucasbianchi.github.io/es/publication/2013_godoy_etal_ijwf/</link>
+      <pubDate>Thu, 02 May 2013 00:00:00 -0300</pubDate>
+      
+      <guid>https://lucasbianchi.github.io/es/publication/2013_godoy_etal_ijwf/</guid>
+      <description></description>
     </item>
     
     <item>
