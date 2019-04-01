@@ -83,6 +83,8 @@
     
 
     
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.css" integrity="sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ==" crossorigin="anonymous">
+    
 
     
 
@@ -547,10 +549,8 @@
         
         
         
-          
-        
         <li>
-          <a itemprop="sameAs" href="/es/#contact" >
+          <a itemprop="sameAs" href="mailto:lbianchi@unrn.edu.ar" >
             <i class="fas fa-envelope big-icon"></i>
           </a>
         </li>
@@ -1409,7 +1409,7 @@
     
 
     <div class="mb-3">
-      <form name="contact" method="POST" action="https://formspree.io/test@example.org">
+      <form name="contact" method="POST" action="https://formspree.io/lbianchi@unrn.edu.ar">
         <div class="form-group form-inline">
           <label class="sr-only" for="inputName">Nombre</label>
           <input type="text" name="name" class="form-control w-100" id="inputName" placeholder="Nombre" required>
@@ -1434,30 +1434,19 @@
       
       <li>
         <i class="fa-li fas fa-phone fa-2x" aria-hidden="true"></i>
-        <span id="person-telephone" itemprop="telephone"><a href="tel:888%20888%2088%2088">888 888 88 88</a></span>
+        <span id="person-telephone" itemprop="telephone"><a href="tel:&#43;54%200294-442-3731">&#43;54 0294-442-3731</a></span>
       </li>
       
 
       
       <li>
         <i class="fa-li fas fa-map-marker fa-2x" aria-hidden="true"></i>
-        <span id="person-address" itemprop="address">Building 1 Room 1, Stanford University, California, 90210, USA</span>
+        <span id="person-address" itemprop="address">Mitre 630, San Carlos de Bariloche, Río Negro, Argentina, CP 8400</span>
       </li>
       
 
       
-      <li>
-        <i class="fa-li fas fa-clock fa-2x" aria-hidden="true"></i>
-        <span>Monday 10:00 to 13:00<br>
-                  Wednesday 09:00 to 10:00</span>
-      </li>
-      
 
-      
-      <li>
-        <i class="fa-li fas fa-calendar-check fa-2x" aria-hidden="true"></i>
-        <a href="https://calendly.com" target="_blank" rel="noopener">Solicitar una cita</a>
-      </li>
       
 
       
@@ -1471,62 +1460,24 @@
       
       
       
-        
-      
       <li>
-        <i class="fa-li fab fa-twitter fa-2x" aria-hidden="true"></i>
-        <a href="https://twitter.com/Twitter" target="_blank" rel="noopener">DM Me</a>
-      </li>
-      
-      
-      
-      
-        
-      
-      
-      
-      
-      
-      <li>
-        <i class="fa-li fab fa-skype fa-2x" aria-hidden="true"></i>
-        <a href="skype:echo123?call" >Skype Me</a>
-      </li>
-      
-      
-      
-      
-        
-      
-      
-      
-      
-      
-        
-      
-      <li>
-        <i class="fa-li fab fa-keybase fa-2x" aria-hidden="true"></i>
-        <a href="https://keybase.io/" target="_blank" rel="noopener">Chat on Keybase</a>
-      </li>
-      
-      
-      
-      
-        
-      
-      
-      
-      
-      
-        
-      
-      <li>
-        <i class="fa-li fas fa-comments fa-2x" aria-hidden="true"></i>
-        <a href="https://discourse.gohugo.io" target="_blank" rel="noopener">Discuss on Forum</a>
+        <i class="fa-li fas fa-paper-plane fa-2x" aria-hidden="true"></i>
+        <a href="mailto:lbianchi@unrn.edu.ar" >lbianchi@unrn.edu.ar</a>
       </li>
       
 
     </ul>
 
+    
+    <div class="d-none">
+      <input id="map-provider" value="2">
+      <input id="map-lat" value="-41.13442">
+      <input id="map-lng" value="-71.30056">
+      <input id="map-dir" value="Mitre 630, San Carlos de Bariloche, Río Negro, Argentina, CP 8400">
+      <input id="map-zoom" value="13">
+      <input id="map-api-key" value="">
+    </div>
+    <div id="map"></div>
     
 
   </div>
@@ -1614,6 +1565,8 @@
     
 
     
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.js" integrity="sha512-lInM/apFSqyy1o6s89K4iQUKg6ppXEgsVxT35HbzUupEVRh2Eu9Wdl4tHj7dZO0s1uvplcYGmt3498TtHq+log==" crossorigin="anonymous"></script>
     
 
     
